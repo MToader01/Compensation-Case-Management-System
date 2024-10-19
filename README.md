@@ -66,8 +66,7 @@ The system uses a MySQL database to manage the data. Below are the key tables:
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/MToader01
-
+   git clone https://github.com/MToader01/Compensation-Case-Management-System
 2. Navigate to the backend directory and run Maven to build the project.
 3. Set up the MySQL database with the provided SQL schema in init.sql.
 4. Run the backend server.
