@@ -66,7 +66,7 @@ The system uses a MySQL database to manage the data. Below are the key tables:
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/air-assist.git
+   git clone https://github.com/MToader01
 
 2. Navigate to the backend directory and run Maven to build the project.
 3. Set up the MySQL database with the provided SQL schema in init.sql.
@@ -88,4 +88,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 Developed by Marcel Toader Păștina.
-You can reach me via LinkedIn or email at pastina.marcel.toader@gmail.com
+You can reach me via [LinkedIn](https://www.linkedin.com/in/marcel-pastina-b83504290/) or email at pastina.marcel.toader@gmail.com.
